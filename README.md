@@ -9,8 +9,8 @@ pseudow = {
     "games",
     "music",
     "food"
-  ]
-  "location": "Lille, France"
+  ],
+  "location": "Lille, France",
   "langages": [
     "java",
     "python"
