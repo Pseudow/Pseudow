@@ -1,16 +1,26 @@
-### Hi there 👋
+# Introduction
+## About me?
+```python
+pseudow = {
+  "real_name": "Nathan",
+  "years_old": 14,
+  "hobbies": [
+    "social_media",
+    "games",
+    "music",
+    "food"
+  ]
+  "location": "Lille, France"
+  "langages": [
+    "java",
+    "python"
+  ]
+}
+print(pseudow)
+```
 
-<!--
-**Pseudow/Pseudow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Statistics
+![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Pseudow&show_icons=true&theme=buefy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to contact me?
+- [x] Discord: Pseudow#8361
