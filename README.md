@@ -13,7 +13,9 @@ pseudow = {
   "location": "Lille, France",
   "langages": [
     "java",
-    "python"
+    "python",
+    "kotlin",
+    "c++"
   ]
 }
 print(pseudow)
@@ -21,6 +23,9 @@ print(pseudow)
 
 ## Statistics
 ![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Pseudow&show_icons=true&theme=buefy)
+
+## Status
+Currently working on two minecraft servers....
 
 # How to contact me?
 - [x] Discord: Pseudow#8361
