@@ -1,31 +1,35 @@
 # Introduction
 ## About me?
-```python
-pseudow = {
-  "real_name": "Nathan",
-  "years_old": 14,
-  "hobbies": [
-    "social_media",
-    "games",
-    "music",
-    "food"
+```js
+module.exports = {
+  real_name: 'Nathan',
+  years_old: 14,
+  hobbies: [
+    'social_medi',
+    'games',
+    'music',
+    'food',
+    'programming'
   ],
-  "location": "Lille, France",
-  "langages": [
-    "java",
-    "python",
-    "kotlin",
-    "c++"
+  location: 'Lille, France',
+  langages: [
+    'java',
+    'python',
+    'kotlin',
+    'c++',
+    'javascript'
   ]
-}
-print(pseudow)
+};
+
+const pseudow = require('./pseudow');
+console.log(pseudow);
 ```
 
 ## Statistics
 ![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Pseudow&show_icons=true&theme=buefy)
 
 ## Status
-Currently working on two minecraft servers....
+Soon
 
 # How to contact me?
 - [x] Discord: Pseudow#8361
