@@ -5,7 +5,7 @@ module.exports = {
   real_name: 'Nathan',
   years_old: 14,
   hobbies: [
-    'social_medi',
+    'social_media',
     'games',
     'music',
     'food',
@@ -17,7 +17,7 @@ module.exports = {
     'python',
     'kotlin',
     'c++',
-    'javascript'
+    'javascript (node.js)'
   ]
 };
 
