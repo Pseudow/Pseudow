@@ -1,4 +1,5 @@
-# Introduction <img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif" width="30px">
+# Introduction
+<img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif">
 ## About me?
 ```js
 module.exports = {
