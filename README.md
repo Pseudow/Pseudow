@@ -1,6 +1,8 @@
 # Introduction
-<img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif">
+<img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif" heigth="50px">
+
 ## About me?
+
 ```js
 module.exports = {
   real_name: 'Nathan',
