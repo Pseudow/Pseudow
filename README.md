@@ -1,4 +1,4 @@
-# Introduction
+# Introduction <img src="https://giphy.com/gifs/cute-studio-ghibli-9lyuDkgZJ4OBO" width="30px">
 ## About me?
 ```js
 module.exports = {
@@ -29,7 +29,7 @@ console.log(pseudow);
 ![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Pseudow&show_icons=true&theme=buefy)
 
 ## Status
-Soon
+- [ ] Soon
 
 # How to contact me?
 - [x] Discord: Pseudow#8361
