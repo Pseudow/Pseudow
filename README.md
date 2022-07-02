@@ -8,19 +8,16 @@ module.exports = {
   real_name: 'Nathan',
   years_old: 16,
   hobbies: [
-    'social_media',
     'games',
-    'music',
-    'food',
+    'music'
     'programming'
   ],
   location: 'Lille, France',
   langages: [
-    'java',
-    'python',
     'kotlin',
-    'c++',
-    'javascript (node.js)'
+    'rust',
+    'java',
+    'ts/js'
   ]
 };
 
