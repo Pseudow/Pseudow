@@ -32,4 +32,4 @@ console.log(pseudow);
 - [ ] Soon
 
 # How to contact me?
-- [x] Discord: Pseudow#8361
+- [x] Discord: 567674487361765406
