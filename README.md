@@ -32,4 +32,5 @@ console.log(pseudow);
 - [ ] Soon
 
 # How to contact me?
-- [x] Discord: 567674487361765406
+- [x] Discord: **567674487361765406**
+- [x] Mail: **pseudow96@proton.me**
