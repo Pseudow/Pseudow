@@ -6,7 +6,7 @@
 ```js
 module.exports = {
   real_name: 'Nathan',
-  years_old: 17,
+  years_old: 18,
   hobbies: [
     'games',
     'music'
